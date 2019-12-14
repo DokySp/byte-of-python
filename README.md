@@ -10,7 +10,9 @@ This book was originally written by Swaroop C H, and you can download the origin
 제 번역 실력이 좋지 못하여 의역, 오역이 있을 수 있습니다..😭 따라서 한국어 번역에 참여하고 싶으신 분이나 의견을 주실 분들은
 
 1. 본 레포지토리에 자신의 아이디로 브렌치를 생성하여 작업 후 `pull request` 해주시거나 
-2. `issue`로 의견을 부탁드립니다!
+2. [`issue`](https://github.com/DokySp/byte-of-python/issues)로 의견을 부탁드립니다!
+
+2019년 12월 14일 현재, 번역 작업중이며 자세한 번역 일정 및 현황은 [Projects](https://github.com/DokySp/byte-of-python/projects/1)에서 확인해주세요!
 
 Translated by Dokyoon Tony Kim <br>
 [![github](https://img.shields.io/badge/github-DokySp-%23d6d6d6?style=flat&logo=github)](https://github.com/dokysp)
