@@ -1,10 +1,22 @@
 # 소개
 
-"A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
+"A Byte of Python"은 파이썬 프로그래밍을 위한 무료 교재입니다. 파이썬이라는 언어를 처음 시작하시는 분들을 위한 예제와 가이드를 제공합니다. 만약 컴퓨터를 사용하실 때 파일을 저장하는 정도의 실력 밖에 없다면, 이 책은 바로 당신을 위한 책이 될 것입니다!
 
-> "A Byte of Python"은 파이썬 프로그래밍을 위한 무료 교재입니다. 파이썬이라는 언어를 처음 시작하시는 분들을 위한 예제와 가이드를 제공합니다. 만약 컴퓨터를 사용하실 때 파일을 저장하는 정도의 실력 밖에 없다면, 이 책은 바로 당신을 위한 책이 될 것입니다!
+## 한국어 번역
+이 책의 원 저자는 Swaroop C H 입니다. 책의 원문은 https://python.swaroopch.com/ 에서 확인 및 다운로드 하실 수 있습니다. 
 
-## Python version 3
+This book was originally written by Swaroop C H, and you can download the original document from https://python.swaroopch.com/ 
+
+제 번역 실력이 좋지 못하여 의역, 오역이 있을 수 있습니다 :sad: 따라서 한국어 번역에 참여하고 싶으신 분이나 의견을 주실 분들은
+1. 본 레포지토리에 자신의 아이디로 브렌치를 생성하여 작업 후 pull request 해주시거나 
+2. issue로 의견을 부탁드립니다!
+
+Translated by Dokyoon Tony Kim <br>
+[![github](https://img.shields.io/badge/github-DokySp-%23d6d6d6?style=flat&logo=github)](https://github.com/dokysp)
+![e-mail](https://img.shields.io/badge/e--mail-uhug%40naver.com-%2319cf17?style=flat)
+
+
+## Python 버전 3
 
 This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
 
@@ -158,7 +170,7 @@ A printed hardcopy of the book can be purchased at https://www.swaroopch.com/buy
 
 ## 책 다운로드하기
 
-다양한 확장자로 책을 다운로드 받으실 수 있습니다.
+아래의 링크에서 다양한 확장자로 책을 다운로드 받으실 수 있습니다 (영문버전).
 
 * [PDF \(for desktop reading, etc.\)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [EPUB \(for iPhone/iPad, ebook readers, etc.\)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
