@@ -7,9 +7,10 @@
 
 This book was originally written by Swaroop C H, and you can download the original document from https://python.swaroopch.com/ 
 
-제 번역 실력이 좋지 못하여 의역, 오역이 있을 수 있습니다 :sob: 따라서 한국어 번역에 참여하고 싶으신 분이나 의견을 주실 분들은
-1. 본 레포지토리에 자신의 아이디로 브렌치를 생성하여 작업 후 pull request 해주시거나 
-2. issue로 의견을 부탁드립니다!
+제 번역 실력이 좋지 못하여 의역, 오역이 있을 수 있습니다..😭 따라서 한국어 번역에 참여하고 싶으신 분이나 의견을 주실 분들은
+
+1. 본 레포지토리에 자신의 아이디로 브렌치를 생성하여 작업 후 `pull request` 해주시거나 
+2. `issue`로 의견을 부탁드립니다!
 
 Translated by Dokyoon Tony Kim <br>
 [![github](https://img.shields.io/badge/github-DokySp-%23d6d6d6?style=flat&logo=github)](https://github.com/dokysp)
@@ -159,8 +160,8 @@ This book is/was being used as instructional material in various educational ins
 
 ## 온라인에서 책 읽기
 
-- https://python.swaroopch.com/ 에서 온라인으로 책을 읽으실 수 있습니다.
-- https://dokysp.gitbook.io/byte-of-python/ 에서 번역본을 읽으실 수 있습니다.
+- https://dokysp.gitbook.io/byte-of-python/ 에서 **한글 번역본**을 읽으실 수 있습니다.
+- https://python.swaroopch.com/ 에서 온라인으로 **영어 원서**를 읽으실 수 있습니다.
 - Python 2 한글 번역본은 http://byteofpython-korean.sourceforge.net/byte_of_python.html 에서 읽으실 수 있습니다.
 
 
