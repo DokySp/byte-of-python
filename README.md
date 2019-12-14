@@ -1,22 +1,31 @@
----
-description: Introduction
----
-
 # 소개
 
 "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
 
-## For Python version 3
+> "A Byte of Python"은 파이썬 프로그래밍을 위한 무료 교재입니다. 파이썬이라는 언어를 처음 시작하시는 분들을 위한 예제와 가이드를 제공합니다. 만약 컴퓨터를 사용하실 때 파일을 저장하는 정도의 실력 밖에 없다면, 이 책은 바로 당신을 위한 책이 될 것입니다!
+
+## Python version 3
 
 This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
 
+> 이 책은 Python 3를 기준으로 강의가 작성되었습니다. 더 오래되고 보편적으로 쓰이는 Python 2 버전을 쓰시던 분들도 넘어오실 수 있게 작성되었습니다.
+
 ## Who reads A Byte of Python? <a id="who-reads-bop"></a>
+
+> A Byte of Python의 독자들
 
 Here are what people are saying about the book:
 
+> 책에 대한 서평:  
+
 > This is the book that got me into programming almost a decade ago. Thank you @swaroopch. You changed my life. -- [Stefan Froelich](https://twitter.com/TheDumbTechGuy/status/1157245235052929024)
 
+> 이 책은 10년 전에 저를 프로그래밍이라는 세계로 이끌어주었습니다. 제 인생을 바꾸어놓은 @swaroopch 에게 감사를 표합니다. -- [Stefan Froelich](https://twitter.com/TheDumbTechGuy/status/1157245235052929024)
+
 > I am writing this email to thank you for the great help your book has done for me! It was a really good book that I enjoyed thoroughly. As a 15 year old who has never done programming before, trying to learn Python online was difficult and I couldn't understand anything. But I felt like your book gave was much easier to understand and eased me into the whole new world of programming. Thanks to you, I can now write a high level language with ease. I thought programming would be hard and boring, but with your book's help, I realised how fun and interesting yet simple it can be! I would like to thank you again for your hard work on helping out beginners like me. -- [Prottyashita Tahiyat](mailto:protahiyat@gmail.com) on Sep 17, 2019
+
+> 저에게 매우 큰 도움이 되어 감사하다는 메일을 쓰고 있습니다. 이 책은 정말 좋은 책이에요! 제가 아직 프로그래밍이라는 것을 모르던 15살 때, 인터넷에서 파이썬을 배우는 것은 매우 힘들었고, 전 어떠한 것도 이해하기가 힘들었어요. 하지만 저는 이 책이 다른 책보다 훨씬 쉽게 이해할 수 있게 해주는 것같이 느꼈고, 완전히 새로운 프로그래밍이라는 세계에 손쉽게 들어갈 수 있게 해주었어요. 이제는 손쉽게 High level 언어를 사용할 수 있게 해주셔서 감사합니다. 저는 예전에 프로그래밍이 어렵고 지루한 것이라 생각했었지만, 이 책의 도움을 받고 난 후 프로그래밍이라는 것이 얼마나 간단하고 재미있으며 흥미로운 것인지 알게 되었어요! 다시 한 번 저 같은 초심자를 도외줄 수 있는 이러한 책을 제작해주셔서 감사하다는 말씀 드리고 싶습니다. -- [Prottyashita Tahiyat](mailto:protahiyat@gmail.com) on Sep 17, 2019
+
 
 > This is the best beginner's tutorial I've ever seen! Thank you for your effort. -- [Walt Michalik](mailto:wmich50@theramp.net)
 
@@ -104,8 +113,10 @@ The book is even used by NASA! It is used in their [Jet Propulsion Laboratory](h
 
 This book is/was being used as instructional material in various educational institutions:
 
-* 'Principles of Programming Languages' course at [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)
-* 'Basic Concepts of Computing' course at [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
+> 이 책은 다양한 교육기관에서 교재로 사용되었거나 사용되고 있습니다.
+
+*  [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html) - 'Principles of Programming Languages' 과목
+*  [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html) - 'Basic Concepts of Computing' 과목
 * 'Programming With Python' course at [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
 * 'Introduction to Programming' course at [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
 * 'Introduction to Application Programming' course at [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)
@@ -114,43 +125,47 @@ This book is/was being used as instructional material in various educational ins
 * 'Multi Agent Semantic Web Systems' course at the [University of Edinburgh](http://homepages.inf.ed.ac.uk/ewan/masws/)
 * 'Introduction to Computer Science and Programming' at [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
 * 'Basic programming at the Faculty of Social Sciences, University of Ljubljana, Slovenia' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) says _"I \(and my predecessor\) have been using your book as the main literature for this course"_
+> "저 그리고 제 선배도 당신의 책을 주요 문헌으로 사용하고 있습니다."
 * 'Introduction to programming', Department of Information Sciences, University of Zadar, Croatia -- Krešimir Zauder says _"I would like to inform you that A Byte of Python is a mandatory read at my course"_
+> "제 강의를 듣는 여러분들은 이 책을 반드시 읽을 수 있도록 합니다."
 
-## License
+## 라이센스
 
-This book is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+이 책은 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)의 보호 아래에 있습니다.
 
-This means:
+이것은 당신이 다음의 권리를 갖는 것을 뜻합니다:
 
-* You are free to Share i.e. to copy, distribute and transmit this book
-* You are free to Remix i.e. to make changes to this book \(especially translations\)
-* You are free to use it for commercial purposes
+* 이 책의 복제, 배포, 전시, 공연 및 공중송신을 할 수 있습니다.
+* 이 책을 개작, 수정하거나 이차저작물을 작성할 수 있습니다 (특히 번역판을 제작할 수 있습니다).
+* 이 책을 영리 목적으로 이용할 수 있습니다.
 
-Please note:
+다음의 내용을 숙지해주시기 바랍니다:
 
-* Please do _not_ sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are _not_ from the original author of this book.
-* Attribution _must_ be shown in the introductory description and front page of the document by linking back to  and clearly indicating that the original text can be fetched from this location.
-* All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted.
+* 이 책의 전자책/출력본을 판매하실 경우, 명백하고 눈에 잘 띄는 방법으로 이 책의 원 저자로부터 판매되는 것이 아님을 명시하지 않는 한 이 책을 판매하실 수 없습니다.
+* 이러한 권리에 관련된 내용은 반드시 책의 도입부에 적혀 있어야 하며, 이 문서의 첫 페이지에는 http://swaroopch.com/notes/python 로 연결되는 링크가 반드시 있어야 하고, 원 저자의 글을 이 곳에서 내려받을 수 있다는 사실을 명시해야 합니다.
+* 따로 명시되어 있지 않는 한, 이 책에서 사용된 모든 코드 및 스크립트는 [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) 아래에 배포됩니다.
 
-## Read Now
+## 온라인에서 책 읽기
 
-You can read it online at 
+- https://python.swaroopch.com/ 에서 온라인으로 책을 읽으실 수 있습니다.
+- https://dokysp.gitbook.io/byte-of-python/ 에서 번역본을 읽으실 수 있습니다.
+- Python 2 한글 번역본은 http://byteofpython-korean.sourceforge.net/byte_of_python.html 에서 읽으실 수 있습니다.
 
-## Buy The Book
 
-A printed hardcopy of the book can be purchased at  for your offline reading pleasure, and to support the continued development and improvement of this book.
+## 책 구입하기
 
-## Download
+A printed hardcopy of the book can be purchased at https://www.swaroopch.com/buybook/ for your offline reading pleasure, and to support the continued development and improvement of this book.
 
-Visit  for the following types of downloads:
+## 책 다운로드하기
+
+다양한 확장자로 책을 다운로드 받으실 수 있습니다.
 
 * [PDF \(for desktop reading, etc.\)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [EPUB \(for iPhone/iPad, ebook readers, etc.\)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
 * [Mobi \(for Kindle\)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
-Visit  for the raw content \(for suggesting corrections, changes, translating, etc.\)
+(정정, 수정, 번역 참여를 위한) 원본은 https://github.com/swaroopch/byte-of-python 에서 확인하실 수 있습니다. 
 
-## Read the book in your native language
+## 번역본
 
-If you are interested in reading or contributing translations of this book to other human languages, please see [Translations](undefined-2/translations.md#translations).
-
+영어 이외의 다른 언어로 이 책을 읽거나 번역에 기여하는데 관심이 있으시다면 [Translations](undefined-2/translations.md#translations) 문서를 확인하세요.
