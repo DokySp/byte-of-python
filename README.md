@@ -2,10 +2,12 @@
 
 "A Byte of Python"은 파이썬 프로그래밍을 위한 무료 교재입니다. 파이썬이라는 언어를 처음 시작하시는 분들을 위한 예제와 가이드를 제공합니다. 만약 컴퓨터를 사용하실 때 파일을 저장하는 정도의 실력 밖에 없다면, 이 책은 바로 당신을 위한 책이 될 것입니다!
 
-## 한국어 번역
-이 책의 원 저자는 Swaroop C H 입니다. 책의 원문은 https://python.swaroopch.com/ 에서 확인 및 다운로드 하실 수 있습니다. 
+## 한국어 번역 (Korean Translation)
 
-This book was originally written by Swaroop C H, and you can download the original document from https://python.swaroopch.com/ 
+
+> This book was originally written by Swaroop C H, and you can download the original document from https://python.swaroopch.com/
+
+이 책의 원 저자는 Swaroop C H 입니다. 책의 원문은 https://python.swaroopch.com/ 에서 확인 및 다운로드 하실 수 있습니다. 
 
 제 번역 실력이 좋지 못하여 의역, 오역이 있을 수 있습니다..😭 따라서 한국어 번역에 참여하고 싶으신 분이나 의견을 주실 분들은
 
@@ -19,14 +21,14 @@ This book was originally written by Swaroop C H, and you can download the origin
 
 Translated by Dokyoon Tony Kim <br>
 [![github](https://img.shields.io/badge/github-DokySp-%23d6d6d6?style=flat&logo=github)](https://github.com/dokysp)
-![e-mail](https://img.shields.io/badge/e--mail-uhug%40naver.com-%2319cf17?style=flat)
+[![e-mail](https://img.shields.io/badge/e--mail-uhug%40naver.com-%2319cf17?style=flat)](mailto:uhug@naver.com?Subject=%5Bbyte-of-python%5D%20한국어%20번역%20관련%20문의)
 
 
 ## Python 버전 3
 
 This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
 
-> 이 책은 Python 3를 기준으로 강의가 작성되었습니다. 더 오래되고 보편적으로 쓰이는 Python 2 버전을 쓰시던 분들도 넘어오실 수 있게 작성되었습니다.
+> 이 책은 Python 3를 기준으로 강의가 작성되었습니다. 더 오래되었고 보편적으로 쓰이는 Python 2 버전을 쓰시던 분들도 넘어오실 수 있게 작성되었습니다.
 
 ## Who reads A Byte of Python? <a id="who-reads-bop"></a>
 
@@ -172,7 +174,7 @@ This book is/was being used as instructional material in various educational ins
 
 ## 책 구입하기
 
-A printed hardcopy of the book can be purchased at https://www.swaroopch.com/buybook/ for your offline reading pleasure, and to support the continued development and improvement of this book.
+이 책의 인쇄본(영어원서)은 https://www.swaroopch.com/buybook/ 에서 구매하실 수 있습니다. 책을 구매해주시면 이 책의 지속적인 내용 개발 및 개선에 도움을 주실 수 있습니다.
 
 ## 책 다운로드하기
 
