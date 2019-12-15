@@ -32,11 +32,11 @@ This book will teach you to use Python version 3. There will also be guidance fo
 
 ## Who reads A Byte of Python? <a id="who-reads-bop"></a>
 
-> A Byte of Python의 독자들
+> 독자평
 
 Here are what people are saying about the book:
 
-> 책에 대한 서평:  
+> 이 책의 독자들이 남겨주신 독자평입니다:  
 
 > This is the book that got me into programming almost a decade ago. Thank you @swaroopch. You changed my life. -- [Stefan Froelich](https://twitter.com/TheDumbTechGuy/status/1157245235052929024)
 
