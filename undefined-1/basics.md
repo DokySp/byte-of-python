@@ -6,6 +6,8 @@ description: Basics
 
 Just printing `hello world` is not enough, is it? You want to do more than that - you want to take some input, manipulate it and get something out of it. We can achieve this in Python using constants and variables, and we'll learn some other concepts as well in this chapter.
 
+> 단순히 `hello world`를 프린트해보는 것은 너무 단순하죠. 분명 이거보다 더 많은 것을 해보는 것을 원할 것이라 생각됩니다. 사용자의 입력값을 받아서 이를 수정하고 결과값을 출력해보는 것처럼 말이죠. 이런 프로그램을 작성하기 위해서는 상수와 변수를 사용해야 합니다. 이번 장에서는 이러한 것들과 다른 개념 또한 알아보도록 합시다.
+
 ## Comments
 
 _Comments_ are any text to the right of the `#` symbol and is mainly useful as notes for the reader of the program.
