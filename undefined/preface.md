@@ -32,9 +32,7 @@ The official website of the book is  where you can read the whole book online, d
 ## Something To Think About
 > 생각해볼 것
 
-> There are two ways of constructing a software design: one way is 
-
-to make it so simple that there are obviously no deficiencies; the other is 
+> There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies; the other is 
 to make it so complicated that there are no obvious deficiencies. -- C. A. R. Hoare
 
 > 소프트웨어를 디자인할 때 두 가지 방법이 있습니다. 첫 번째로 아주 간단한 프로그램을 명확한 결함이 없게 제작하는 것이고, 두 번째로 매우 프로그램을 복잡하게 만들어 결함을 명확하지 않게 만드는 것입니다. -- C. A. R. Hoare
