@@ -1,10 +1,10 @@
 # 소개
 
-**2019년 12월 14일 현재, 번역 작업중이며 자세한 번역 일정 및 현황은 [Projects](https://github.com/DokySp/byte-of-python/projects/1)에서 확인해주세요!**
+**2019년 12월 28일 현재, 번역 작업중이며 자세한 번역 일정 및 현황은 [Projects](https://github.com/DokySp/byte-of-python/projects/1)에서 확인해주세요!**
 
 "A Byte of Python"은 파이썬 프로그래밍을 위한 무료 교재입니다. 파이썬이라는 언어를 처음 시작하시는 분들을 위한 예제와 가이드를 제공합니다. 만약 컴퓨터를 사용하실 때 파일을 저장하는 정도의 실력 밖에 없다면, 이 책은 바로 당신을 위한 책이 될 것입니다!
 
-## 한국어 번역 (Korean Translation)
+## 한국어 번역 (Korean Translation) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/dokysp/byte-of-python)
 
 
 > This book was originally written by Swaroop C H, and you can download the original document from https://python.swaroopch.com/
